@@ -1,0 +1,32 @@
+input {
+     background:rgb(248,248,255);
+     border: none;
+     box-shadow: 0 2px 2px rgba(0,0,0,.15);
+     color: #473e39;
+     float: left;
+     font-family: 'Arvo', serif;
+     font-size: 20px;
+     height: 60px;
+     margin: 0 5px 0 0;
+     padding: 0 20px;
+     width: 315px;
+}
+            
+button {
+     background: rgb(32,178,170);
+     border: none;
+     border-radius: 0;
+     box-shadow: 0 2px 2px rgba(0,0,0,.15);
+     color: #fff;
+     font-family: 'Arvo', serif;
+     font-size: 16px;
+     height: 60px;
+     width: 60px;
+     float:center;
+}
+     
+button:hover {
+      background: rgb(0,139,139);
+      cursor: pointer;
+}
+ 
