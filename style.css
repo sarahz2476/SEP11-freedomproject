@@ -29,4 +29,15 @@ button:hover {
       background: rgb(0,139,139);
       cursor: pointer;
 }
- 
+
+span {
+     padding: 10px;
+     align-items: start;
+}
+
+div {
+     display: flex;
+     align-items: center; 
+     justify-content: center;
+     padding: 15px;
+}
