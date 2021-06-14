@@ -41,3 +41,7 @@ div {
      justify-content: center;
      padding: 15px;
 }
+.finishButton:hover{
+     cursor: pointer;
+     box-shadow: 0 2px 2px rgba(0,0,0,.15);
+}

@@ -23,12 +23,12 @@
         let finish = document.createElement('span');
         var li = document.createElement("p");
         
-        
+        finish.className = 'finishButton';
         
         li.setAttribute('data-id', doc.id);
         input.textContent = doc.data().input;
         finish.textContent = 'FINISH';
-        finish.style.backgroundColor = "lightgreen";
+        finish.style.backgroundColor = "#1fffa7";
         finish.style.Color = "white";
         
         
